@@ -9,7 +9,7 @@ function inicio () {
     return (
 <div className="wrapper">
       <header className="header-container">
-        <Estudiante />
+        <Header />
       </header>
         <h1>BIENVENIDO AL SISTEMA EDUCATIVO</h1>
   </div>
